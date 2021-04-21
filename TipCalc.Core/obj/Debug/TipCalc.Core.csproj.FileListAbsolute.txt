@@ -1,0 +1,10 @@
+D:\Users\ankal\source\repos\TipCalc\TipCalc.Core\bin\Debug\TipCalc.Core.dll
+D:\Users\ankal\source\repos\TipCalc\TipCalc.Core\bin\Debug\TipCalc.Core.pdb
+D:\Users\ankal\source\repos\TipCalc\TipCalc.Core\bin\Debug\MvvmCross.dll
+D:\Users\ankal\source\repos\TipCalc\TipCalc.Core\bin\Debug\MvvmCross.pdb
+D:\Users\ankal\source\repos\TipCalc\TipCalc.Core\bin\Debug\MvvmCross.xml
+D:\Users\ankal\source\repos\TipCalc\TipCalc.Core\obj\Debug\TipCalc.Core.csprojAssemblyReference.cache
+D:\Users\ankal\source\repos\TipCalc\TipCalc.Core\obj\Debug\TipCalc.Core.csproj.CoreCompileInputs.cache
+D:\Users\ankal\source\repos\TipCalc\TipCalc.Core\obj\Debug\TipCalc.Core.csproj.CopyComplete
+D:\Users\ankal\source\repos\TipCalc\TipCalc.Core\obj\Debug\TipCalc.Core.dll
+D:\Users\ankal\source\repos\TipCalc\TipCalc.Core\obj\Debug\TipCalc.Core.pdb
